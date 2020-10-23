@@ -17,8 +17,10 @@ entries:
     url: false
     entries: false
 
-#  - title: rss
-#    url: feed.xml
+  - title: Prueba projects
+    project_list: true
+    url: false
+    entries: false
 
   - title: Proyectos
     url: false
