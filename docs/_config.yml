@@ -1,9 +1,10 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev/no-style-please # root address of the site
+title: Divulgación en texto plano # name of the site
+author: Jordi Renau # name of site's author
+email: jordi.renau@uchceu.es # email of site's author
+url: https://jordirenau.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  Sitio web para la divulgación de las actividades, proyectos e investigación del grupo de
+  investigación y desarrollo de tecnologías en aplicaciones energéticas (TecEner).
 
 permalink: /:slug.html
 
