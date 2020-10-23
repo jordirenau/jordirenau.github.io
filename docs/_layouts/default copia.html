@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "es" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -15,7 +15,7 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
+        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -41,24 +41,7 @@
       <section>
 
       {{ content }}
-      {%- if site.posts.size > 0 -%}
-        <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-        <ul class="post-list">
-          {%- for post in site.posts -%}
-          <li>
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <h3>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
-            {%- if site.show_excerpts -%}
-              {{ post.excerpt }}
-            {%- endif -%}
-          </li>
-          {%- endfor -%}
-        </ul>
+
       </section>
       <footer>
         {% if site.github.is_project_page %}
