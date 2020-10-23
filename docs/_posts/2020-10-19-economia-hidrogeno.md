@@ -10,7 +10,7 @@ description: La economía del hidrógeno para 2050
 
 ## Introducción y antecedentes
 
-Como es bien sabido, una de las mayores problemáticas ambientales del progreso es el cambio climático, causado por los gases de efecto invernadero. Las emisiones de CO~2~ en España se presentan en el siguiente gráfico.
+Como es bien sabido, una de las mayores problemáticas ambientales del progreso es el cambio climático, causado por los gases de efecto invernadero. Las emisiones de CO<sub>2</sub> en España se presentan en el siguiente gráfico.
 
 ![Emisiones de CO2 de España](https://i.loli.net/2020/10/23/xpD7ij4VdvMgK8o.png)
 
