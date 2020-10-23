@@ -29,7 +29,7 @@ plugins:
 
 collections:
   pages:
-    output: true
+    output: false
     permalink: /:name
   posts:
     output: true
