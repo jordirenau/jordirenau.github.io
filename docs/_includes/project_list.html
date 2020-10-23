@@ -1,8 +1,8 @@
-{% if site.Projects.size > 0 %}
+{% if site.projects.size > 0 %}
   <ul>
-    {% for project in site.Project %}
+    {% for project in site.projects %}
       <li>
-        {{ project.date | date: site.theme_config.date_format }} <a href="{{ project.url | relative_url }}">{{ project.title | downcase }}</a>
+        {{ page.date | date: site.theme_config.date_format }} <a href="{{ page.url | relative_url }}">{{ page.title | capitalize }}</a>
       </li>
     {% endfor %}
   </ul>

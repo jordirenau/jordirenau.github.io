@@ -26,7 +26,7 @@ entries:
     url: false
     entries:
       - title: Planta de potencia de un UAV
-        url: Projects/UAV
+        url: _Projects/2015-01-01-UAV
     #    entries:
     #      - title: with subsubitems
     #        url: false
