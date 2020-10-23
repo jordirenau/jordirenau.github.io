@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Esto es una página que probamos para ver
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./prueba1.md).
