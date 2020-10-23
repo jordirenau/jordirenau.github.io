@@ -1,0 +1,9 @@
+{% if site.Projects.size > 0 %}
+  <ul>
+    {% for project in site.Project %}
+      <li>
+        {{ project.date | date: site.theme_config.date_format }} <a href="{{ project.url | relative_url }}">{{ project.title | downcase }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}
