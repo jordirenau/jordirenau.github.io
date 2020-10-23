@@ -4,7 +4,7 @@
 
 Como es bien sabido, una de las mayores problemáticas ambientales del progreso es el cambio climático, causado por los gases de efecto invernadero. Las emisiones de CO~2~ en España se presentan en el siguiente gráfico. 
 
-![Emisiones de CO2 de España](annual-co2-emissions-per-country-3127907.png)
+![Emisiones de CO2 de España](https://i.loli.net/2020/10/23/xpD7ij4VdvMgK8o.png)
 
 El crecimiento en las emisiones es casi vertical. Siendo España un 1,2% de la contribución de las emisiones del planeta en 2002, bajando hasta un 0,8% en 2017, gracias a los esfuerzos en el aumento de la eficiencia energética, tal y como se aprecia en la gráfica de intensidad energética. Esta indica la energía invertida para producir una unidad de PIB (según dólar de 2011). Como se aprecia, el valor decrementa. 
 
