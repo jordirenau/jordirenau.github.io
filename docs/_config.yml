@@ -1,9 +1,10 @@
 site: Divulgación científica
 url: https://jordirenau.github.io
 title: Cosas de energía
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
+description: Espacio de divilgación científica para los proyectos del hidrógeno
+  y las energías renovables
 twitter:
-  username: yourusername
+  username: jordirenau
   card: summary
 
 permalink: pretty
