@@ -1,4 +1,4 @@
 ---
 layout: blog
-title: Notes que tu
+title: Notes
 ---
