@@ -1,27 +1,68 @@
-title: Divulgación en texto plano # name of the site
-author: Jordi Renau # name of site's author
-email: jordi.renau@uchceu.es # email of site's author
-url: https://jordirenau.github.io # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Sitio web para la divulgación de las actividades, proyectos e investigación del grupo de
-  investigación y desarrollo de tecnologías en aplicaciones energéticas (TecEner).
+site: Ultra
+url: https://example.com
+title: Ultra
+description: Ultra - Super fast Jekyll theme, weighs under 2kb
+twitter:
+  username: yourusername
+  card: summary
 
-permalink: /:slug.html
+permalink: pretty
 
-favicon: "./logo.png" # relative path to site's favicon
-# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
-
-theme: no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
-
-theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
-  back_home_text: ".." # customize text for homepage link in post layout
-  date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+paginate:            1000
+paginate_path:       "/page:num/"
+baseurl:             ""
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
 sass:
-  style: :compressed
+  sass_dir:          _sass
+  style:            :compressed
 
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  projects:
+    output: true
+    permalink: /projects/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
