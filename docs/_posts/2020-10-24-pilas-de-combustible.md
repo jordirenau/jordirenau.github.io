@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Las pilas de combustible
-summary: Las pilas de combustible: el generador electrico del futuro
+summary: Las pilas de combustible: el generador eléctrico del futuro
 ---
 
 ## Cómo funcionan
