@@ -1,9 +1,10 @@
-site: Divulgación científica y tecnológica
+site: TecEner divulga
 url: https://jordirenau.github.io
-title: Ultra
-description: Ultra - Super fast Jekyll theme, weighs under 2kb
+title: Divulgación científica y tecnológica
+description: Espacio de divulgación sobre tecnologías del hidrógeno y las energías
+renovables. 
 twitter:
-  username: yourusername
+  username: jordirenau
   card: summary
 
 permalink: pretty
