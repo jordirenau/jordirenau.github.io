@@ -21,7 +21,7 @@ La tesis la engloba en tres artículos publicados que se corresponden con lo que
 
 ![K1VRhMIi47bfBFj](https://i.loli.net/2020/11/16/K1VRhMIi47bfBFj.png)
 
-<div id:'objetivos'/>
+<div id='objetivos'/>
 
 
 ## Objetivos de la tesis
@@ -34,7 +34,7 @@ La tesis la engloba en tres artículos publicados que se corresponden con lo que
 + Objetivo 6 -> Cuantificar los proyectos financiados con fondos europeos que llevan a cabo la implementación real de energías renovables en un entorno urbano. 
 + Objetivo 7 -> Definir el grado de implicación de los proyectos europeos respecto al impacto estético que producen en la ciudad. 
 
-<div id:'hipotesis'/> 
+<div id='hipotesis'/> 
 
 
 ## Hipótesis de partida
@@ -49,7 +49,7 @@ La tesis la engloba en tres artículos publicados que se corresponden con lo que
 + Hipótesis 5 -> La tendencia creciente de los proyectos de implementación efectiva de energías renovables a escala urbana como reflejo de las estrategias estrablecidas la Unión Europea 
 + Hipótesis 6 -> Escasa consideración del impacto estético en los proyectos europeos de energías renovables en entornos urbanos, pero con una tendencia al alza en los próximos años. 
 
-<div id:'metodologia'/> 
+<div id='metodologia'/> 
 
 
 ## Metodología
@@ -81,7 +81,8 @@ Todos los resultados de la encuesta se utiliza el método SAM: "maniquí de auto
 
 Una revisión sistemática de los proyectos europeos de desarrollo de renovables pero que no tienen que ver con la movilidad, el autoconsumo o que fueron implantados en entorno rural o mar. 
 
-<div id:'aclaraciones'/>
+<div id='aclaraciones'/>
+
 
 ## Puntos que me gustaría aclarar
 
