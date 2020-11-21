@@ -21,6 +21,6 @@ El electrolito de las pilas de combustible funciona de la misma forma que las ba
 
 ![Fuel cell](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Solid_oxide_fuel_cell_protonic.svg/913px-Solid_oxide_fuel_cell_protonic.svg.png)
 
-Durante la operación de la pila de combustible hay un cierto exceso de combustible y **calor** que se emite al entorno reduciendo el rendimiento energético del sistema, al igual que sucede en los motores térmicos de combustión interna. Y al igual que se plantea con estos, es posible diseñar el sistema para poder aprovechar dicho calor residual, convirtiendo la pila de combustible en una instalación de cogeneración tal y como hemos planteado en el proyecto MICA-PEM.
+Durante la operación de la pila de combustible hay un cierto exceso de combustible y **calor** que se emite al entorno reduciendo el rendimiento energético del sistema, al igual que sucede en los motores térmicos de combustión interna. Y al igual que se plantea con estos, es posible diseñar el sistema para poder aprovechar dicho calor residual, convirtiendo la pila de combustible en una instalación de cogeneración tal y como hemos planteado en el proyecto <a href="/projects/micapem" target="_blank">MICAPEM</a>.
 
 ![PolarizacionFuelCellPBI](https://i.loli.net/2020/11/09/sWpDnLjKgxNBwMz.png)
