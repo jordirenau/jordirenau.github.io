@@ -2,7 +2,7 @@
 layout: post
 title: Las pilas de combustible
 summary: Una pila de combustible se comporta exactamente como una batería, pero cargada de forma infinita, o hasta que termines el combustible.
-slug: micapem
+slug: fuelcell
 ---
 
 ## Cómo se construyen
