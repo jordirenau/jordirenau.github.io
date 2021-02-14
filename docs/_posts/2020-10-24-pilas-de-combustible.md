@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Las pilas de combustible
-summary: Una pila de combustible es un dispositivo electroquímico como una batería. Si le suministramos los elementos químicos que producen la reacción de forma continua, tenemos una batería infinita. 
+summary: Una pila de combustible se comporta exactamente como una batería, pero cargada de forma infinita, o hasta que termines el combustible.
 slug: fuelcell
 ---
-
 
 ## Cómo se construyen
 
@@ -20,7 +19,9 @@ El hecho de tratarlas como células o celdas es porque la pila o apilamiento se 
 
 ## Cómo funcionan
 
-El electrolito de las pilas de combustible funciona de la misma forma que las baterías convencionales: es un material que permite la conducción de los iones libres pero no de electrones, de forma que es posible separar las dos corrientes en una reacción electroquímica y canalizar la corriente eléctrica para poder aprovecharla. Las pilas PEM son las más sencillas con las que se explica el fenómeno de estas reacciones redox: el hidrógeno (H<sub>2</sub>) en el ánodo se rompe en dos protones (H<sup>+</sup>) que pueden atravesar libremente la membrana, liberando dos electrones que no pueden pasar por dicha membrana, por lo que deben buscar un camino alternativo hasta el cátodo, donde se separa el oxígeno y se recombina con los protones de hidrógeno para formar moléculas de agua. 
+El electrolito de las pilas de combustible funciona de la misma forma que las baterías convencionales: es un material que permite la conducción de los iones libres pero no de electrones, de forma que es posible separar las dos corrientes en una reacción electroquímica y canalizar la corriente eléctrica para poder aprovecharla. Para que sea más claro, los electrones salen por fuera del dispositivo, a través de los cables de conexión, como una batería, y los protones quedan en el interior y se desplazan con mecanismos que dependen de la tecnología de pila de combustible.
+
+Las pilas PEM son las más sencillas con las que se explica el fenómeno de estas reacciones redox: el hidrógeno (H<sub>2</sub>) en el ánodo se rompe en dos protones (H<sup>+</sup>) que pueden atravesar libremente la membrana, liberando dos electrones que no pueden pasar por dicha membrana, por lo que deben buscar un camino alternativo hasta el cátodo, donde se separa el oxígeno y se recombina con los protones de hidrógeno para formar moléculas de agua. 
 
 ![Fuel cell](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Solid_oxide_fuel_cell_protonic.svg/913px-Solid_oxide_fuel_cell_protonic.svg.png)
 
@@ -30,7 +31,10 @@ Durante la producción de electricidad en una pila de combustible, como en cualq
 
 ### Curva de polarización
 
-Una forma de mostrar el comportamiento de estos dispositivos es mediante lo que se conoce como curva de polarización. En la siguiente figura se muestra el resultado de la polarización para la pila del proyecto <a href="/projects/micapem" target="_blank">MICAPEM</a>. Esta curva, representada en rojo abajo, reacciona el voltaje de la pila de combustible con respecto a la potencia demandada. En la misma figura se ha incluido en el eje secundario derecho la potencia entregada (producto de la corriente y el voltaje).
+Una forma de mostrar el comportamiento de estos dispositivos es mediante lo que se conoce como curva de polarización. En la siguiente figura se muestra el comportamiento de la pila diseñada para el proyecto <a href="/projects/micapem" target="_blank">MICAPEM</a>. 
 
 <img src='https://github.com/jordirenau/jordirenau.github.io/blob/main/docs/_projects/2015-01-01-micapem_images/knzihRstbCrAvXd.png?raw=true' alt='Polarización' />
 
+En la misma figura se representan dos gráficos diferentes. En el eje horizontal se representa la corriente de la pila, común para las dos líneas, roja y verde. La curva roja representa el comportamiento en voltaje de la pila de combustible, muy simular a una batería. Si aumenta la corriente solicitada, el voltaje cada vez es menor. En color verde se representan las curvas de potencia. En línea continua para la potencia eléctrica y en línea discontinua para la potencia térmica, esta última es estimada. Ambas curvas de potencia se leen sobre el eje vertical de la derecha. 
+
+Para más información, hay bibliografía especializada y sencilla de comprender como el libro: "Fuel Cell System Explained" Larminie, James y Dicks, Andrew (2013). John Wiley & Sons Ltd.
