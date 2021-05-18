@@ -5,19 +5,25 @@ summary: El hidrógeno es un elemento que no se encuentra libre en la naturaleza
 slug: electrolizador
 ---
 
+## El hidrógeno
+Aunque en esta secció se hable de la electrólisis del agua, resulta interesante realizar una aportación con algunas pinceladas sobre que es el hidrógeno y porqué resulta tan interesante. 
+
 ## Electrólisis del agua
+
 La electrólisis es un proceso por el cual se separan las moléculas del agua mediante energía eléctrica.  
 
-Esta parte del documento se ha obtenido desde la página de [micapem](./_project) 
+Esta parte del documento se ha obtenido desde la página de <a href="/projects/micapem" target="_blank">MICAPEM</a>.
 
 ## Producción de energía en el
 
 
 
-<img src='https://github.com/jordirenau/jordirenau.github.io/blob/main/docs/_posts/2021-02-15-electrolizador_images/ratio_to_energy_upto_EL20N.png?raw=true' alt='Esquema técnico de la cogeneración' />
+<img src='https://raw.githubusercontent.com/jordirenau/jordirenau.github.io/main/docs/_posts/2021-02-15-electrolizador_images/ratio_to_energy_upto_EL20N.png' alt='Producción de hidrógeno de baja potencia' />
 
 
 
-<img src='https://github.com/jordirenau/jordirenau.github.io/blob/main/docs/_posts/2021-02-15-electrolizador_images/ratio_to_energy_upto_EL20N.png?raw=true' alt='Esquema técnico de la cogeneración' />
+<img src='https://raw.githubusercontent.com/jordirenau/jordirenau.github.io/main/docs/_posts/2021-02-15-electrolizador_images/ratio_to_energy_upto_EL580N.png' alt='Producción de hidrógeno de alta potencia' />
+
+
 
 <img src='https://github.com/jordirenau/jordirenau.github.io/blob/main/docs/_posts/2021-02-15-electrolizador_images/ratio_to_energy_upto_EL580N.png?raw=true' alt='Esquema técnico de la cogeneración' />
