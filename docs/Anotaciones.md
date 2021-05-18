@@ -11,6 +11,8 @@
 
 ## Resumen del contenido
 
+Aquí voy a meter historias en el documento para que tengasmo informacion adicional
+
 El título de la tesis define perfectamente el desarrollo del contenido y los objetivos de la misma. 
 
 La tesis la engloba en tres artículos publicados que se corresponden con lo que indica como tres líneas de investigación, que serías como tres etapas:
