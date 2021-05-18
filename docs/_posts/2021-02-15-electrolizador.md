@@ -10,6 +10,8 @@ La electrólisis es un proceso por el cual se separan las moléculas del agua me
 
 ## Producción de energía en el
 
+<img src='https://github.com/jordirenau/jordirenau.github.io/blob/main/docs/_posts/2021-02-15-electrolizador_images/01_Produccion_fotovoltaica_SMLsystem_EL05N.png?raw=true' alt='Esquema técnico de la cogeneración' />
+
 ![01_Produccion_fotovoltaica_SMLsystem_EL05N](/2021-02-15-electrolizador_images/01_Produccion_fotovoltaica_SMLsystem_EL05N.png)
 
 ![02_Produccion_hidrogeno_SMLsystem_EL05N](/2021-02-15-electrolizador_images/02_Produccion_hidrogeno_SMLsystem_EL05N.png)
