@@ -4,6 +4,7 @@ layout: default
 
 <article class="post" role="article">
   <h1>{{ page.title }}</h1>
+  <p>{{ page.summary }}</p>
   <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }} &middot; {{ page.category }} &middot; {{ page.description }}</time>
   {{ content }}
 </article>
