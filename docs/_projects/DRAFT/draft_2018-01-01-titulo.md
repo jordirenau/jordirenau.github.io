@@ -8,4 +8,4 @@ category: Proyecto con financiación competitiva
 
 ## Hola
 
-Esto es un proyecto de forma genericxa
+Este debería de estar muy oculto 
