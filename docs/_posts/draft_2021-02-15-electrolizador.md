@@ -2,7 +2,7 @@
 layout: post
 title: Electrolizadores
 summary: El hidrógeno es un elemento que no se encuentra libre en la naturaleza, por lo que debe ser producido. Por ello se considera como un vector o portador energético. Los electrolizadores utilizan la energía eléctrica para romper la molécula de agua y separarla en hidrógeno y oxígeno. 
-slug: electrolizador
+slug: hidrogeno
 ---
 
 ## El hidrógeno
