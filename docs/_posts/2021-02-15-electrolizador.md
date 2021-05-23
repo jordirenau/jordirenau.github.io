@@ -17,15 +17,15 @@ slug: hidrogeno
 
 ## El hidrógeno
 
-Aunque en esta sección se hable de la electrólisis del agua, resulta interesante realizar una aportación con algunas pinceladas sobre que es el hidrógeno y porqué resulta tan interesante.[^gasecillos]
+Aunque en esta sección se hable de la electrólisis del agua, resulta interesante realizar una aportación con algunas pinceladas sobre que es el hidrógeno y porqué resulta tan interesante.[^2]
 
 Hablamos de hidrógeno según una clasificación de colores. Hidrógeno Gris si se produce desde fuentes de energía fósil como el carbón o el Gas Natural. Algunos autores tratan de subclasificar algo más entre carbón y gas [^1].
 
-
+<div id='id_electrolisis'/>
 
 [[Back](#contenidos)]
 
-## <div id='id_electrolisis'>Electrólisis del agua</div>
+## Electrólisis del agua
 
 La electrólisis es un proceso por el cual se separan las moléculas del agua mediante energía eléctrica.  
 
@@ -50,4 +50,4 @@ Esta parte del documento se ha obtenido desde la página de <a href="/projects/m
 
 
 [^1]: Autores como los que han publicado la guía o un artículo en el que mostraban que sería interesante realizar una coloración un poco más amplia de los tipos de hidrógeno, pera mostrar el grado de pureza del mismo.
-[^gasecillos]: Este es un ejemplo de como simplificar las notas de página desordenadas
+[^2]: Este es un ejemplo de como simplificar las notas de página desordenadas
