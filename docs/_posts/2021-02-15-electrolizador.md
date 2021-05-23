@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Electrolizadores
-summary: El hidrógeno es un elemento que no se encuentra libre en la naturaleza, por lo que debe ser producido. Por ello se considera como un vector o portador energético. Los electrolizadores utilizan la energía eléctrica para romper la molécula de agua y separarla en hidrógeno y oxígeno. 
+summary: El hidrógeno es un elemento que no se encuentra libre en la naturaleza, por lo que debe ser producido. Por ello se considera como un vector o portador energético. Los electrolizadores utilizan la energía eléctrica para romper la molécula de agua y separarla en hidrógeno y oxígeno.
 slug: hidrogeno
 ---
 
 <div id='contenidos' />
 
-Contenidos
+Contenidos 
 
 + [El hidrógeno](#id_hidrogeno)
 + [Electrólisis del agua](#id_electrolisis)
@@ -16,9 +16,9 @@ Contenidos
 <div id='id_hidrogeno' />
 ## El hidrógeno
 
-Aunque en esta sección se hable de la electrólisis del agua, resulta interesante realizar una aportación con algunas pinceladas sobre que es el hidrógeno y porqué resulta tan interesante. 
+Aunque en esta sección se hable de la electrólisis del agua, resulta interesante realizar una aportación con algunas pinceladas sobre que es el hidrógeno y porqué resulta tan interesante.
 
-Hablamos de hidrógeno según una clasificación de colores. Hidrógeno Gris si se produce desde fuentes de energía fósil como el carbón o el Gas Natural. Algunos autores tratan de subclasificar algo más entre carbón y gas [^1] 
+Hablamos de hidrógeno según una clasificación de colores. Hidrógeno Gris si se produce desde fuentes de energía fósil como el carbón o el Gas Natural. Algunos autores tratan de subclasificar algo más entre carbón y gas [^1]
 
 <div id='id_electrolisis' />
 [[Back](#contenidos)]
@@ -43,4 +43,4 @@ Esta parte del documento se ha obtenido desde la página de <a href="/projects/m
 
 
 
-[^1]: Autores como los que han publicado la guía o un artículo en el que mostraban que sería interesante realizar una coloración un poco más amplia de los tipos de hidrógeno, pera mostrar el grado de pureza del mismo. 
+[^1]: Autores como los que han publicado la guía o un artículo en el que mostraban que sería interesante realizar una coloración un poco más amplia de los tipos de hidrógeno, pera mostrar el grado de pureza del mismo.
