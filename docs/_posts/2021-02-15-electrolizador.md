@@ -6,6 +6,7 @@ slug: hidrogeno
 ---
 
 <div id='contenidos'/>
+
 ## Contenidos
 
 + [El hidrógeno](#id_hidrogeno)
@@ -13,22 +14,27 @@ slug: hidrogeno
 + [Producción de hidrógeno desde energía solar](#id_produccion)
 
 <div id='id_hidrogeno'/>
+
 ## El hidrógeno
 
 Aunque en esta sección se hable de la electrólisis del agua, resulta interesante realizar una aportación con algunas pinceladas sobre que es el hidrógeno y porqué resulta tan interesante.
 
 Hablamos de hidrógeno según una clasificación de colores. Hidrógeno Gris si se produce desde fuentes de energía fósil como el carbón o el Gas Natural. Algunos autores tratan de subclasificar algo más entre carbón y gas [^1].
 
-<div id='id_electrolisis'/>
+
+
 [[Back](#contenidos)]
-## Electrólisis del agua
+
+## <div id='id_electrolisis'>Electrólisis del agua</div>
 
 La electrólisis es un proceso por el cual se separan las moléculas del agua mediante energía eléctrica.  
 
 Esta parte del documento se ha obtenido desde la página de <a href="/projects/micapem" target="_blank">MICAPEM</a>.
 
 <div id='id_produccion'/>
+
 [[Back](#contenidos)]
+
 ## Producción de hidrógeno desde energía solar
 
 
