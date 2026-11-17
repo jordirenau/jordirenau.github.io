@@ -1,0 +1,43 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "El Recetario"
+  subtitle: "Libro de recetas familiar"
+  author: "Jordi"
+  date: today
+  date-format: "D MMMM YYYY"
+  language: es
+  chapters:
+    - index.qmd
+    - part: "Bases y mezclas"
+      chapters:
+        - recetas/bases-y-mezclas/madras-masala.qmd
+    - part: "Platos principales"
+      chapters:
+        - recetas/principales/fish-madras.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: assets/custom.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    search: true
+    lang: es
+  pdf:
+    documentclass: book
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=2.5cm
+    lang: es
+    toc: true
+    toc-depth: 2
+    colorlinks: true
+    linkcolor: BrickRed
+    urlcolor: BrickRed

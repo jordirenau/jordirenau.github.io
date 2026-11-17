@@ -1,0 +1,17 @@
+/* Estilos personalizados del recetario */
+
+/* Tablas de ingredientes más compactas */
+table {
+  font-size: 0.95em;
+}
+
+/* Resaltar enlaces a otras recetas */
+a[href*="recetas/"] {
+  font-weight: 600;
+}
+
+/* Metadata de receta bajo el título */
+.quarto-title-meta {
+  font-size: 0.9em;
+  color: #666;
+}

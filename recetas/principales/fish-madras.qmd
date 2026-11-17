@@ -1,0 +1,49 @@
+---
+title: "Fish curry Madrás"
+categories: [principales, india, pescado, curry]
+tiempo: "45 min"
+raciones: 4
+---
+
+<!-- Documento generado por Claude por orden de Jordi — 19 de octubre de 2026 -->
+
+Curry de pescado blanco con leche de coco y mezcla Madrás casera. Reconfortante, aromático y con un picante controlable.
+
+## Ingredientes
+
+- 600 g de pescado blanco firme, cortado en trozos grandes
+- 1 cebolla, picada fina
+- 3 dientes de ajo, picados
+- 1 cda de jengibre fresco rallado
+- 2 tomates, rallados
+- 2 cda de [mezcla Madrás](../bases-y-mezclas/madras-masala.qmd)
+- 400 ml de leche de coco
+- 2 cda de aceite
+- 1 cdta de sal
+- 1 cda de zumo de limón o lima
+- Cilantro fresco, para servir
+- 1 guindilla verde, cortada en juliana (opcional)
+
+## Preparación
+
+1. **Sofreír la cebolla** en el aceite 5–6 minutos hasta que dore.
+2. **Añadir ajo y jengibre**, cocinar 1–2 minutos.
+3. **Bajar el fuego**, añadir la mezcla Madrás y remover 20–30 segundos (que no se queme la cúrcuma ni el fenogreco, o amargará).
+4. **Añadir el tomate**, cocinar 4–5 minutos hasta que se concentre.
+5. **Verter la leche de coco**, sal y guindilla si se usa. Hervir suave 6–8 minutos.
+6. **Añadir el pescado** con cuidado, sin remover mucho. Cocinar 6–7 minutos hasta que esté opaco.
+7. **Retirar del fuego**, añadir el zumo de limón, ajustar sal. Servir con cilantro fresco y arroz basmati o naan.
+
+## Notas sobre el pescado
+
+- **Rape congelado**: aguanta mejor que el bacalao; dar 7–8 minutos.
+- **Bacalao**: secarlo muy bien tras descongelar y cuidar el punto de sal (puede venir salado).
+- **Pescados delicados** (merluza): añadir la mezcla al aceite solo 20–30 seg antes del pescado para que no amargue.
+
+## Qué hacer con la leche de coco sobrante
+
+Si no usas la lata entera, el resto va bien para:
+
+- **Arroz al coco**: sustituir parte del agua por leche de coco al cocinar el basmati.
+- **Dal de lentejas rojas**: con cúrcuma, comino y un poco de la misma mezcla Madrás.
+- **Congelar en cubitos** (bandeja de hielo): se conserva 2–3 meses y se va usando en porciones.

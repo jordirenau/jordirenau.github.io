@@ -1,0 +1,72 @@
+---
+title: "Mezcla de curry Madrás"
+categories: [mezclas, especias, india]
+rendimiento: "40–50 g (para 2 currys)"
+conservación: "2–3 meses en tarro hermético a oscuras"
+---
+
+<!-- Documento generado por Claude por orden de Jordi — 19 de octubre de 2026 -->
+
+Mezcla casera de curry Madrás, elaborada como promedio de varias fuentes (Masala Herb, Sanjana Feasts, Curry Guy, MyIndianStove, Silk Road Recipes). El fenogreco y la mostaza son los que dan el carácter "Madrás" frente a un curry powder genérico.
+
+## Ingredientes {#sec-ingredientes}
+
+### Especias enteras (se tuestan)
+
+| Especia | Cantidad |
+|---|---|
+| Semillas de cilantro | 2 cdta colmadas |
+| Semillas de comino | 1,25 cda |
+| Pimienta negra en grano | 1 cdta |
+| Semillas de mostaza (negra/parda) | 1 cdta |
+| Semillas de fenogreco | 3/4 cdta |
+| Cardamomo verde | 4–5 vainas |
+| Canela en rama | trozo pequeño |
+| Clavo | 4–5 unidades |
+| Anís estrellado | 1 unidad (opcional) |
+
+### Especias molidas (no se tuestan)
+
+| Especia | Cantidad |
+|---|---|
+| Cúrcuma en polvo | 3/4 cda |
+| Chile en polvo (cayena o Kashmiri) | 1/2 cda (ajustable) |
+| Jengibre en polvo | 3/4 cdta |
+
+### Otras
+
+| Especia | Cantidad |
+|---|---|
+| Hojas de curry secas | 8–10 hojas |
+| Nuez moscada | pizca (opcional) |
+
+## Preparación
+
+1. **Tostar en seco** las especias enteras a fuego bajo-medio durante 5–8 minutos, removiendo, hasta que huelan intensamente. No quemarlas.
+2. **Dejar enfriar** por completo antes de moler (si están calientes se apelmazan).
+3. **Añadir las hojas de curry** secas y **moler todo fino** en molinillo de café o mortero.
+4. **Mezclar** con la cúrcuma, el chile y el jengibre en polvo (estos no se tuestan, se incorporan al final).
+5. **Guardar** en tarro hermético, a oscuras.
+
+## Versión mínima (6 especias) {#sec-version-minima}
+
+Si no tienes todas las especias, estos seis ingredientes dan un Madrás reconocible:
+
+| Especia | Proporción |
+|---|---|
+| Semillas de cilantro | 2 partes (2 cda) |
+| Semillas de comino | 1 parte (1 cda) |
+| Cúrcuma | 1 parte (1 cda) |
+| Chile en polvo | 0,5 partes (1,5 cdta) |
+| Semillas de mostaza | 0,5 partes (1,5 cdta) |
+| Fenogreco | 0,5 partes (1,5 cdta) |
+
+Tuesta cilantro, comino, mostaza y fenogreco; muele; mezcla con cúrcuma y chile.
+
+Si puedes añadir un séptimo ingrediente, prioriza las **hojas de curry secas**.
+
+## Notas
+
+- El chile se puede bajar bastante si el pescado que vas a usar es delicado.
+- Esta mezcla sale media-suave por defecto.
+- Si no encuentras hojas de curry, como alternativa de emergencia se puede usar hoja de lima kaffir o compensar con más cilantro fresco al final del plato.

@@ -1,0 +1,24 @@
+---
+title: "El Recetario"
+---
+
+<!-- Documento generado por Claude por orden de Jordi — 19 de octubre de 2026 -->
+
+# Bienvenido
+
+Este es un libro de recetas familiar, construido poco a poco a partir de recetas propias, adaptaciones y descubrimientos en la cocina.
+
+Algunas recetas son invenciones; otras están adaptadas de diversas fuentes. Todas han pasado por nuestra cocina.
+
+## Cómo usar este libro
+
+- Navega por las secciones del menú lateral.
+- Usa el **buscador** (arriba) para encontrar ingredientes o platos.
+- Las recetas referencian **bases y mezclas** comunes — haz clic en los enlaces para ir a su preparación.
+
+## Categorías
+
+- **Bases y mezclas**: mezclas de especias, salsas base, masas y preparaciones que se usan en múltiples recetas.
+- **Platos principales**: platos completos organizados por tipo.
+
+*El recetario irá creciendo. Con el tiempo añadiremos entrantes, postres, panes y lo que surja.*
