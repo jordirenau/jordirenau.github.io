@@ -30,6 +30,7 @@ format:
     search: true
     lang: es
   pdf:
+    output-file: "El-Recetario.pdf"
     documentclass: book
     papersize: a4
     fontsize: 11pt
